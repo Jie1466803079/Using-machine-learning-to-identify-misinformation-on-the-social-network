@@ -6,6 +6,10 @@
 
 `Python` · `scikit-learn` · `NLTK / gensim` · `Logistic Regression · Naive Bayes · K-Means · LDA`
 
+<p align="center">
+  <img src="docs/confusion_matrix.png" alt="Confusion matrices for the Logistic Regression and Naive Bayes classifiers on the held-out test set" width="680">
+</p>
+
 ## Problem
 The project builds an analytics lifecycle to find misinformation on social networks, focused on distinguishing and correcting human vs non-human (brand) profiles. Various algorithms test whether a profile is mistakenly recorded as human when it is actually a brand, or vice versa. The aim is to predict the correct classification for each profile and suggest amendments for the mislabelled ones.
 
